@@ -1,0 +1,2 @@
+'notif': 1
+'sound': 1
